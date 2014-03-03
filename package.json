@@ -1,0 +1,23 @@
+{
+  "name": "direct-upload-index",
+  "version": "0.1.0",
+  "description": "Index of all my implementations of direct-upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pjambet/direct-upload-index.git"
+  },
+  "author": "Pierre Jambet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjambet/direct-upload-index/issues"
+  },
+  "homepage": "https://github.com/pjambet/direct-upload-index",
+  "dependencies": {
+    "logfmt": "^0.21.0",
+    "express": "^3.4.8"
+  }
+}
